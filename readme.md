@@ -1,0 +1,3 @@
+- [ ] Task 1: Created Database
+- [ ] Task 2: Connect to Database
+- [ ] Task 2: Created Model
