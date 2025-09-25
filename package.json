@@ -1,5 +1,19 @@
 {
   "dependencies": {
     "mongoose": "^8.14.3"
+  },
+  "name": "mern-notes-app",
+  "version": "1.0.0",
+  "description": "- [ ] Task 1: Created Database\r - [ ] Task 2: Connect to Database\r - [ ] Task 2: Created Model",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm install --prefix backend && npm install --prefix frontend && npm run build --prefix frontend",
+    "start": "npm run start --prefix backend"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.93.2"
   }
 }
